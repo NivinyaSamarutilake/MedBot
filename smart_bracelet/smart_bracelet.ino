@@ -8,8 +8,8 @@
 // #include <ESPAsyncTCP.h>
 // #include <ESPAsyncWebServer.h>
 
-const char *ssid     = "Huawei_1";
-const char *password = "2000c443c2e9";
+const char *ssid     = "<YOUR WIFI SSID>";
+const char *password = "<YOUR WIFI PASSWORD>";
 
 String days_arr[5] = {"","","","",""};
 int hours_arr[5] = {0,0,0,0,0};
